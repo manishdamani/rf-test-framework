@@ -1,0 +1,7 @@
+spectrum_analyzer:
+  ip: 192.168.0.10
+  model: R&S FSV
+
+signal_generator:
+  ip: 192.168.0.11
+  model: Keysight N5182B
